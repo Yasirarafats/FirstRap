@@ -1,1 +1,2 @@
-# FirstRap
+# FirstRap 
+Learning programming from scratch
